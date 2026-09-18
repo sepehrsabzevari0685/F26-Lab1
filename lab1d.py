@@ -26,7 +26,6 @@
 # Print "uick brown foxs ju" from "words".
 
 
-
 name = "Sepehr"
 name = name.upper()
 
@@ -36,12 +35,11 @@ print("How are you {}? Happy {}th birthday!".format(name, age))
 
 words = "The quick brown fox jumps over the lazy dog"
 
-print(words[0])
-print(words[16])
+print(words[0:17])
 
 print(words[-23:-18])
 print(words[-39:-34])
 
 print(words[2:15])
 
-print("quick brown fox ju" )
+print(words[4:21])
