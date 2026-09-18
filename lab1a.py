@@ -28,7 +28,6 @@ message = "Welcome to PRG101"
 
 print(message)
 print(type(message))
-print(message + " Python is the future.")
 
 x = 10
 print(type(x))
