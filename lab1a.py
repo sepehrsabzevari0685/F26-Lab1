@@ -20,3 +20,16 @@
 # TO DO 4: Dynamic Typing: 
 # Now reassign a new value to the variable `x`, this value should be a string, e.g "hello", check the type of the variable `x` again.
 # What did you observe?
+
+
+
+
+message = "Welcome to PRG101"
+print(message)
+print(type(message))
+
+x=10
+print(type(x))
+
+x = "hello"
+print(type(x))
