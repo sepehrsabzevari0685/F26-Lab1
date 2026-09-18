@@ -13,3 +13,22 @@
 
 # TO-DO 2:
 # Perform all arithmetic oeprations as outlined in the description in README.md file, and print in the required format.
+
+
+
+
+
+
+num1 = input("enter first number:")
+num2 = input("enter second number")
+
+num1 = int(num1)
+num2 = int(num2)
+
+print("num1 + num2 =", num1 + num2)
+print("num1 - num2 =", num1 + num2)
+print("num1 * num2 =", num1 + num2)
+print("num1 ** num2 =", num1 + num2)
+print("num1 / num2 =", num1 + num2)
+print("num1 // num2 =", num1 + num2)
+print("num1 % num2 =", num1 + num2)
